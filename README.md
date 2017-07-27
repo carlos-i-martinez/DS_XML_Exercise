@@ -13,7 +13,7 @@ reference: https://docs.python.org/2.7/library/xml.etree.elementtree.html
 
 data source: http://www.dbis.informatik.uni-goettingen.de/Mondial
 
-Using data in 'data/mondial_database.xml', the examples above, and refering to https://docs.python.org/2.7/library/xml.etree.elementtree.html, find
+Using data in 'mondial_database.xml', the examples above, and refering to https://docs.python.org/2.7/library/xml.etree.elementtree.html, find
 
 1. 10 countries with the lowest infant mortality rates
 2. 10 cities with the largest population
